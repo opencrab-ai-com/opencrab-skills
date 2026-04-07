@@ -1,0 +1,7 @@
+interface:
+  display_name: "Brand Inspired UI"
+  short_description: "Match brand references to frontend UI"
+  default_prompt: "Use $brand-inspired-ui to choose a bundled brand reference and turn it into frontend-friendly design guidance."
+
+policy:
+  allow_implicit_invocation: true
