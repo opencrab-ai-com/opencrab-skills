@@ -11,22 +11,22 @@
 ## Categories
 
 - `design/`
-  - `brand-inspired-ui/`: 从品牌设计参考中挑选合适风格，并输出前端可消费的设计约束、HTML 原型或实现提示。详见 [design/brand-inspired-ui/README.md](/Users/sky/codex/opencrab-skills/design/brand-inspired-ui/README.md)。
-  - `ui-ux-research/`: 搜索 UI/UX 风格、配色、字体、图表、UX 规则和栈相关设计建议。详见 [design/ui-ux-research/README.md](/Users/sky/codex/opencrab-skills/design/ui-ux-research/README.md)。
+  - `brand-inspired-ui/`: 从品牌设计参考中挑选合适风格，并输出前端可消费的设计约束、HTML 原型或实现提示。详见 [design/brand-inspired-ui/README.md](design/brand-inspired-ui/README.md)。
+  - `ui-ux-research/`: 搜索 UI/UX 风格、配色、字体、图表、UX 规则和栈相关设计建议。详见 [design/ui-ux-research/README.md](design/ui-ux-research/README.md)。
 
 - `workflow/`
-  - `design-discovery/`: 在实现前澄清需求、比较方案并拿到设计确认。详见 [workflow/design-discovery/README.md](/Users/sky/codex/opencrab-skills/workflow/design-discovery/README.md)。
-  - `implementation-planning/`: 将已确认的设计拆成可执行的实现计划。详见 [workflow/implementation-planning/README.md](/Users/sky/codex/opencrab-skills/workflow/implementation-planning/README.md)。
-  - `workspace-isolation/`: 用隔离工作区或 git worktree 启动多步骤开发。详见 [workflow/workspace-isolation/README.md](/Users/sky/codex/opencrab-skills/workflow/workspace-isolation/README.md)。
+  - `design-discovery/`: 在实现前澄清需求、比较方案并拿到设计确认。详见 [workflow/design-discovery/README.md](workflow/design-discovery/README.md)。
+  - `implementation-planning/`: 将已确认的设计拆成可执行的实现计划。详见 [workflow/implementation-planning/README.md](workflow/implementation-planning/README.md)。
+  - `workspace-isolation/`: 用隔离工作区或 git worktree 启动多步骤开发。详见 [workflow/workspace-isolation/README.md](workflow/workspace-isolation/README.md)。
 
 - `quality/`
-  - `systematic-debugging/`: 先做根因分析，再修复问题。详见 [quality/systematic-debugging/README.md](/Users/sky/codex/opencrab-skills/quality/systematic-debugging/README.md)。
-  - `test-driven-development/`: 用 failing test 驱动实现。详见 [quality/test-driven-development/README.md](/Users/sky/codex/opencrab-skills/quality/test-driven-development/README.md)。
-  - `completion-verification/`: 在宣称完成前先做新鲜验证。详见 [quality/completion-verification/README.md](/Users/sky/codex/opencrab-skills/quality/completion-verification/README.md)。
-  - `code-review-reception/`: 用技术核验来处理 review 意见，而不是盲从。详见 [quality/code-review-reception/README.md](/Users/sky/codex/opencrab-skills/quality/code-review-reception/README.md)。
+  - `systematic-debugging/`: 先做根因分析，再修复问题。详见 [quality/systematic-debugging/README.md](quality/systematic-debugging/README.md)。
+  - `test-driven-development/`: 用 failing test 驱动实现。详见 [quality/test-driven-development/README.md](quality/test-driven-development/README.md)。
+  - `completion-verification/`: 在宣称完成前先做新鲜验证。详见 [quality/completion-verification/README.md](quality/completion-verification/README.md)。
+  - `code-review-reception/`: 用技术核验来处理 review 意见，而不是盲从。详见 [quality/code-review-reception/README.md](quality/code-review-reception/README.md)。
 
 - `authoring/`
-  - `skill-authoring/`: 创建和迭代高质量、可发现、可复用的 skill。详见 [authoring/skill-authoring/README.md](/Users/sky/codex/opencrab-skills/authoring/skill-authoring/README.md)。
+  - `skill-authoring/`: 创建和迭代高质量、可发现、可复用的 skill。详见 [authoring/skill-authoring/README.md](authoring/skill-authoring/README.md)。
 
 ## Notes
 
