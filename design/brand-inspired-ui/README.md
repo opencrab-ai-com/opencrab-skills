@@ -35,13 +35,7 @@
 
 它只是一个维护脚本，用来在需要时从上游 `awesome-design-md` 重新同步参考文件。
 
-也就是说：
-
-- `Codex`
-- `Claude Code`
-- `Cursor`
-
-在调用这个 skill 时，不会自动执行这个 Python 脚本。
+也就是说，主流 AI coding agent 在调用这个 skill 时，不会自动执行这个 Python 脚本。
 
 ## Layout
 
@@ -62,5 +56,5 @@ brand-inspired-ui/
 ## Notes
 
 - `SKILL.md` 是行为说明的来源
-- `agents/openai.yaml` 是面向 OpenAI/Codex 风格运行时的元数据补充
+- `agents/openai.yaml` 是面向部分运行时的可选元数据补充
 - `scripts/` 目录主要服务于仓库维护者，而不是 skill 的最终使用者
