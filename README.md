@@ -10,6 +10,9 @@
 
 ## Categories
 
+- `automation/`
+  - `chatgpt-web-imagegen/`: 通过用户已登录的 Chrome 会话调用 `https://chatgpt.com/images` 生成单张图片，并返回保存路径。详见 [automation/chatgpt-web-imagegen/README.md](automation/chatgpt-web-imagegen/README.md)。
+
 - `design/`
   - `brand-inspired-ui/`: 从品牌设计参考中挑选合适风格，并输出前端可消费的设计约束、HTML 原型或实现提示。详见 [design/brand-inspired-ui/README.md](design/brand-inspired-ui/README.md)。
   - `ui-ux-research/`: 搜索 UI/UX 风格、配色、字体、图表、UX 规则和栈相关设计建议。详见 [design/ui-ux-research/README.md](design/ui-ux-research/README.md)。
