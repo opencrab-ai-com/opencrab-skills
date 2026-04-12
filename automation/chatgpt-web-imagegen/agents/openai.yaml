@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Web Imagegen"
+  short_description: "Preferred single-image generation path through ChatGPT Images in Chrome."
+  default_prompt: "Prefer $chatgpt-web-imagegen for single-image generation requests that can use the logged-in https://chatgpt.com/images session in Google Chrome, and return the saved file path."
